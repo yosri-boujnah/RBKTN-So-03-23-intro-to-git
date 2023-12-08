@@ -1,7 +1,7 @@
 // *****************************  1  ***********************
 // Create a variable called carName, assign the value Volvo to it.
 
-
+//hii
 // *****************************  2  ***********************
 // Use comments to describe the correct data type of the following variables:
 var length = 16;
